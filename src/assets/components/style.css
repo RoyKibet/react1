@@ -1,0 +1,20 @@
+/* style.css.css or your CSS file */
+
+body {
+    background-color: blue; /* Sets the background color to blue */
+    color: white; /* Sets the text color to white */
+    font-family: Arial, sans-serif; /* Optional: Sets a general font */
+  }
+  
+  button {
+    background-color: white; /* Sets button background to white */
+    color: blue; /* Sets button text color to blue */
+    border: 1px solid white; /* Optional: Adds a border to the button */
+    padding: 10px 20px; /* Adds some padding */
+    cursor: pointer; /* Changes cursor to pointer on hover */
+  }
+  
+  button:hover {
+    background-color: lightgray; /* Button background on hover */
+  }
+  
